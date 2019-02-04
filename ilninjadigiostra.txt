@@ -3,9 +3,4 @@ mi ritrovai per una selva oscura,
 ché la diritta via era smarrita.
 Ahi quanto a dir qual era è cosa dura,
 esta selva selvaggia e aspra e forte,
-<<<<<<< HEAD
-che nel pensier rinova la paura!
-aaaa
-=======
 che nel pensier rinova la paurabbbbvbbbbb!
->>>>>>> 321a27df81bf11b6ce6c913a5f2013bf726cdb5d
